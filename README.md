@@ -55,7 +55,7 @@ Docker Compose is used to manage the application services.
 
 ### Deployment Verification
 
-![Deployment Verification](screenshots/DockerPS-Compose-Curl.png)
+![Deployment Verification](screenshots/deployment-verification.png)
 
 ## ☁️ Deployment
 
@@ -101,4 +101,4 @@ Local Development
 
 **Manit Savla**
 
-Computer Science Engineering Student | Backend • Cloud • DevOps
+Backend • Cloud • DevOps
