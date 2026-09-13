@@ -49,6 +49,10 @@ Docker Compose is used to manage the application services.
 
 ![Dockerfile](screenshots/Dockerfile.png)
 
+### MySQL Database
+
+![MySQL Database](screenshots/mysql_database.png)
+
 ### AWS EC2
 
 ![EC2 Instance](screenshots/EC2_instance.png)
